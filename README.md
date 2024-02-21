@@ -1,0 +1,1 @@
+An Amazon landing page UI.
